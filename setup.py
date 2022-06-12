@@ -20,7 +20,7 @@ setup(
     license="MIT",
     version="0.0.0",
     description="Project has been completed.",
-    author="Avnish Yadav",
+    author="Avnish Yadav & Bappy Ahmed",
     packages=find_packages(),
     install_requires=get_requirement_list()
 )
